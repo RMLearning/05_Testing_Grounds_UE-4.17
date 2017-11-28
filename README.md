@@ -1,4 +1,4 @@
-"# 05_Testing_Grounds" 
+# 05_Testing_Grounds
 Udemy Unreal Engine Developer Course Section 5: Testing Grounds FPS
 
 NOTE: Do not upgrade to 4.18. This caused workflow issues.
