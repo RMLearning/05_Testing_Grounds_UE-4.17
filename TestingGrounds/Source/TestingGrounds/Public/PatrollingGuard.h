@@ -15,7 +15,7 @@ class TESTINGGROUNDS_API APatrollingGuard : public ATP_ThirdPersonCharacter
 	GENERATED_BODY()
 	
 	
-public:
+public: // TODO: Remove or create get
 	UPROPERTY(EditInstanceOnly, Category = "Patrol Route")
 	TArray<AActor*> PatrolPointsCCP;
 	
