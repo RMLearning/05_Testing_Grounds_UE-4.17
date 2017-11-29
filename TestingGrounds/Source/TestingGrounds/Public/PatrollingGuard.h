@@ -1,4 +1,4 @@
-// Fill out your copyright notice in the Description page of Project Settings.
+// Udemy Course Work
 
 #pragma once
 
@@ -13,10 +13,5 @@ UCLASS()
 class TESTINGGROUNDS_API APatrollingGuard : public ATP_ThirdPersonCharacter
 {
 	GENERATED_BODY()
-	
-	
-public: // TODO: Remove or create get
-	UPROPERTY(EditInstanceOnly, Category = "Patrol Route")
-	TArray<AActor*> PatrolPointsCCP;
-	
+		
 };
